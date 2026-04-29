@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-hhgvuu.antam89.site/sitemap.xml
